@@ -4,8 +4,6 @@
 <img src="https://github.com/errap/errap/blob/main/errap.png" alt="An image of Irish electronic duo, Erra P." width="1000" height="400" class="centerImage">
 </div>
 
-<p>I am a data scientist who loves technology and computing. I mainly work with Python, SQL, and R for data analytics, data visualisation, web scraping, and machine learning tasks. </p>
-
 <p>Erra P. is a music duo based in Ireland and Amsterdam, with a focus on Techno, Tech-House, House music; with occasional journeys into Deep House, Raw and Dub genres.
 
 Formed in 2016, Erra P. embodies the collective musical experiences of Steffen Coonan AKA AISENMA Beatz, a long time DJ and Producer, with a keen ear for all genres of House and Techno, and Ciaran O’Brien, a classically trained musician with a deep understanding of musical composition, engineering and mastering. This fusion of backgrounds and skills has enabled them to craft a sound that stands out in the saturated landscape of electronic music.</p>
