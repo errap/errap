@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-<img src="https://github.com/errap/errap/blob/main/errap_wide.png" alt="An image of Irish electronic duo, Erra P." width="1200" height="400" class="centerImage">
+<img src="https://github.com/errap/errap/blob/main/errap_colour.png" alt="An image of Irish electronic duo, Erra P." width="600" height="400" class="centerImage">
 </div>
 
 <p>Erra P. is a music duo based in Ireland and Amsterdam, with a focus on Techno, Tech-House, House music; with occasional journeys into Deep House, Raw and Dub genres.
