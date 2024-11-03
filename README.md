@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**errap/errap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+<img src="https://github.com/errap/errap/blob/main/errap.png" alt="An image of Irish electronic duo, Erra P." width="1000" height="400" class="centerImage">
+</div>
 
-Here are some ideas to get you started:
+<p>I am a data scientist who loves technology and computing. I mainly work with Python, SQL, and R for data analytics, data visualisation, web scraping, and machine learning tasks. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Erra P. is a music duo based in Ireland and Amsterdam, with a focus on Techno, Tech-House, House music; with occasional journeys into Deep House, Raw and Dub genres.
+
+Formed in 2016, Erra P. embodies the collective musical experiences of Steffen Coonan AKA AISENMA Beatz, a long time DJ and Producer, with a keen ear for all genres of House and Techno, and Ciaran O’Brien, a classically trained musician with a deep understanding of musical composition, engineering and mastering. This fusion of backgrounds and skills has enabled them to craft a sound that stands out in the saturated landscape of electronic music.</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=errap&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
