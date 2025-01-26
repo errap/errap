@@ -10,7 +10,6 @@ Formed in 2016, Erra P. embodies the collective musical experiences of Steffen C
 
 ## Sample:
 
-
 <video src="https://github.com/user-attachments/assets/136d83be-b641-40fe-b6e4-2588abf6f263" width="75%" controls>
   Your browser does not support the video tag.
 </video>
